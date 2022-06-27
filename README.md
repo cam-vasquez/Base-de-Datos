@@ -1,2 +1,4 @@
-# Taller03_BD
-Taller 03 de Base de Datos
+# Base de datos
+___
+
+Laboratorios, talleres y proyecto grupal
